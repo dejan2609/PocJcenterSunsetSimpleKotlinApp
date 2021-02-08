@@ -17,8 +17,8 @@ Related external links:
 * https://youtrack.jetbrains.com/issue/IDEA-261387 Move org.jetbrains.trove4j:trove4j:20160824 to MavenCentral
 
 android studio details:
-* Android Studio 4.2 Beta 4
-* Build #AI-202.7660.26.42.7094744, built on January 21, 2021
+* Android Studio Arctic Fox | 2020.3.1 Canary 5
+* Build #AI-203.6682.168.2031.7101492, built on January 25, 2021
 
 
 
